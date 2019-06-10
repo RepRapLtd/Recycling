@@ -10,7 +10,7 @@ The resin recycling code (see https://en.wikipedia.org/wiki/Resin_identification
 
 Scale the shape appropriately, then position it so that it cuts one or two millimetres into a surface of the printed object in a face where such an indentation won't matter.  If you put it in the base of an object most RepRap and other 3D printers will print the indentation well without support.
 
-The master file is a freeCAD (https://www.freecadweb.org/) design for the shape: PLA-recycling-symbol.fcstd
+The master file is a FreeCAD (https://www.freecadweb.org/) design for the shape: PLA-recycling-symbol.fcstd
 
 To scale a shape in FreeCAD select the Draft Workbench, select the shape, and from the Draft tools select Clone.  This will copy the shape and give extra X, Y, and Z scaling parameters for the result which will allow you to make it any size you like.
 
